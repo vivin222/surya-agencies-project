@@ -598,7 +598,7 @@ Configure via `.env` file or environment:
 
 * **Project Title:** Surya Agencies — QR-Based Self-Service Ordering & Inventory System
 * **Initiative:** Project Better Tomorrow
-* **Repository Description:** `Surya Agencies — Ice Cream & Dairy Ordering Portal | Project Better Tomorrow Review 3 (100%) | Fully hardened, tested, validated and deployed`
+* **Repository Description:** `Surya Agencies — Ice Cream & Dairy Ordering Portal | Project Better Tomorrow Review 3 — Final Completion Milestone | Tested, Security-Hardened, Documented and Deployed`
 * **Current Evaluation Milestone:** Project Review 3 (100% Final Evaluation Milestone)
 * **Target Enterprise:** Surya Agencies (Authorized Hatsun & Arun Icecream Parlour)
 * **Industry Domain:** Retail Dairy & Ice Cream Parlour Automation
