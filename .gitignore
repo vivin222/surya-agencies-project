@@ -25,4 +25,5 @@ cloudflared.exe
 
 # Temporary Database Journals & Caches
 *.sqlite-journal
+test_*.sqlite
 
